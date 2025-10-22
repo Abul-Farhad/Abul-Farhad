@@ -64,17 +64,17 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abul-Farhad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abul-Farhad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=orange&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abul-Farhad&color=orange&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
